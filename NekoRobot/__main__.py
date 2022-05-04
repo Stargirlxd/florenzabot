@@ -78,7 +78,7 @@ PM_START_TEXT = """
 *Hola!*
 *I am an Anime themed advance group management bot with a lot of Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-• *thnx to @NekoXRobot for neko robot repo*
+• *thnx to florenzabot for neko robot repo*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ➛ Try The Help Buttons Below To Know My Abilities ××
 """
@@ -87,20 +87,20 @@ buttons = [
     [
                         InlineKeyboardButton(
                             text="Add Neko To Your Group",
-                            url="t.me/NekoXRobot?startgroup=true")
+                            url="t.me/florenzabot?startgroup=true")
                     ],
                    [
                        InlineKeyboardButton(text="[► Help ◄]", callback_data="help_back"),
                        InlineKeyboardButton(text="[► Repo ◄]", url="https://GitHub.com/Awesome-Prince/NekoRobot-2"),
-                       InlineKeyboardButton(text="[► Network ◄]", url="https://t.me/Yuki_Network"),
+                       InlineKeyboardButton(text="[► Network ◄]", url="https://t.metsfNetwork"),
                      ],
                     [                  
                        InlineKeyboardButton(
                              text="Support",
-                             url="https://t.me/nekoxsupport"),
+                             url="https://t.me/florenza_support"),
                        InlineKeyboardButton(
                              text="Updates",
-                             url="https://t.me/nekoxupdates")
+                             url="https://t.me/Starz_bots")
                      ], 
     ]
 
@@ -113,7 +113,7 @@ HELP_STRINGS = """
 
 NEKO_IMG = "https://telegra.ph/file/8fa070dfa60da6c024ac3.mp4"
 
-DONATE_STRING = """Hey , If you want Donate means Give a Star ⭐ to this [Repo](https://GitHub.com/Hodacka/NekoRobot-2)"""
+DONATE_STRING = """Hey , If you want Donate means Give a Star ⭐ to this [Here](https://GitHub.com/stargirlxd)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
