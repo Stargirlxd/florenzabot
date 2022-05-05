@@ -29,7 +29,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 ### ╒═══「 Creator Info/Credits 」
 
-+ ➢ [LovelyPrince](https://github.com/stargirlxd) : OWNER | DEV
++ ➢ [NOOB STARGIRL](https://github.com/stargirlxd) : OWNER | DEV
 +
 
 
@@ -48,7 +48,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Awesome-Prince/NekoRobot-2">
+        <a href="https://heroku.com/deploy?template=https://github.com/stargirlxd/florenzabot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
