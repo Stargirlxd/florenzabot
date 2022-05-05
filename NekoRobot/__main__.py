@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-────「 [NekoRobot](https://telegra.ph/file/38559b4da168432999bb8.jpg) 」────
+────「 [Florenzabot](https://telegra.ph/file/38559b4da168432999bb8.jpg) 」────
 *Hola!*
 *I am an Anime themed advance group management bot with a lot of Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -91,10 +91,10 @@ buttons = [
                     ],
                    [
                        InlineKeyboardButton(text="[► Help ◄]", callback_data="help_back"),
-                       InlineKeyboardButton(text="[► Repo ◄]", url="https://GitHub.com/Awesome-Prince/NekoRobot-2"),
+  
                        InlineKeyboardButton(text="[► Network ◄]", url="https://t.metsfNetwork"),
                      ],
-                    [                  
+                            
                        InlineKeyboardButton(
                              text="Support",
                              url="https://t.me/florenza_support"),
@@ -107,7 +107,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hi.. I'm` [Neko💜]("https://telegra.ph/file/85ce7f2dc743fb5c0c93a.jpg") 
+`Hi.. I'm`[Florenza 💖]("https://telegra.ph/file/85ce7f2dc743fb5c0c93a.jpg") 
 `Click on the buttons below to get about Cute Futures..`"""
 
 
@@ -381,7 +381,7 @@ def neko_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_shasa's licensed under the GNU General Public License v3.0_
-                 \nHere is the [💾Repository](https://github.com/Hodacka/NekoRobot-2).
+                 \nHere is the [💾Re.
                  \n\nIf you have any question about *Neko*, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
